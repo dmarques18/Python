@@ -9,3 +9,8 @@ b=1
 while b<=10:
     print b
     b+=1
+    
+list = ['soccer', 'football', 'hockey']
+
+for food in list:
+    print 'I play ' + food
